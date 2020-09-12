@@ -1,0 +1,10 @@
+Name:lead wall
+Description:a wall of lead
+Type: wall
+Health:1500
+Size:1
+Requirements: [
+   Lead/12
+]
+Category:defense
+Research:copper-wall
