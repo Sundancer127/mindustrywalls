@@ -1,0 +1,10 @@
+name: Large Lead Wall
+description: A cheap wall cousin to copper.
+type: Wall
+health: 3000
+size: 2
+requirements: [
+  lead/24
+]
+category: defense
+research: lead wall
